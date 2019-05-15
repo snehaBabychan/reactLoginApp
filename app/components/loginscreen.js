@@ -1,6 +1,6 @@
 //import liraries
-import React, {Component} from 'react';
-import {View, Text, TextInput,Alert, StyleSheet,Dimensions,TouchableOpacity,ScrollView, Image,ToastAndroid} from 'react-native';
+import { React, Component} from 'react';
+import { View, Text, TextInput,Alert, StyleSheet,Dimensions,TouchableOpacity,ScrollView, Image,ToastAndroid} from 'react-native';
 import { GlobalStyles } from '../global/globalStyles';
 import { connect } from 'react-redux';
 
